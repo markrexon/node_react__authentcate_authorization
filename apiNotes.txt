@@ -1,0 +1,17 @@
+    Authentication :
+
+localhost:8080/login =>
+  {
+    "email":"demo@gmail.com",
+    "password":"admin@123"
+   
+}
+localhost:8080/register =>
+{
+    "username":"demouser",
+    "email":"adminmail.com",
+    "password":"admin@123",
+    "designation":"demopart" 
+}
+  
+
